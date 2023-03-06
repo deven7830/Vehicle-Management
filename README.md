@@ -9,10 +9,11 @@
 7: python manage.py runserver
 8: Navigate to http://127.0.0.1:8000/
 
-                         ## Existing Users In Database ##
-                  Super_Admin = username:dev, password: qwerty@123
-                  Admin = username:kajal, password: qwerty@123
-                  User = username:kukku, password: qwerty@123
+                      ## Existing Users In Database ##
+                   Super_Admin = username:dev, password: qwerty@123
+                   Admin = username:kajal, password: qwerty@123
+                   User = username:kukku, password: qwerty@123
+
 
 ##For Testing##
 python manage.py test
